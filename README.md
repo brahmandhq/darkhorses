@@ -8,7 +8,32 @@ Our aim with this project is to inspire, educate, and provide tangible hope to e
 
 ## Getting Started on Local
 
-First, run the development server:
+clone the repository
+
+```bash
+git clone https://github.com/brahmandhq/darkhorses.git
+```
+
+open the directory of the project
+
+```bash
+cd darkhorses
+```
+
+install the projects depedencies
+
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm intstall
+# or
+bun install
+
+```
+
+run the development server:
 
 ```bash
 npm run dev
